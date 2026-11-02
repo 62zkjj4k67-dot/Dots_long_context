@@ -1,0 +1,8 @@
+# Never publish populated records. Keep your own records outside this repository.
+Active/
+Areas/
+Projects/
+*.jsonl
+tasks.json
+reconciliation.json
+.env
